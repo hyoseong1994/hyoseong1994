@@ -57,13 +57,3 @@
 ![Snake animation](https://raw.githubusercontent.com/hyoseong1994/hyoseong1994/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyoseong1994&theme=tokyo-night&hide_border=true"/>
-
-</div>
